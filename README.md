@@ -43,5 +43,9 @@ LoginScreen (Compose) → LoginViewModel.login() → UserRepository.login()
 
 Cek isi database: **View > Tool Windows > App Inspection > Database Inspector**.
 
-> Catatan: password disimpan plaintext hanya untuk pembelajaran.
-> Pada aplikasi nyata, gunakan hashing (mis. BCrypt / Argon2).
+## Preview
+<img width="318" height="640" alt="WhatsApp Image 2026-11-03 at 12 18 43" src="https://github.com/user-attachments/assets/59155a25-2b83-4e3d-86d6-1a38a80d704d" />
+<img width="318" height="640" alt="WhatsApp Image 2026-11-03 at 12 18 43 (1)" src="https://github.com/user-attachments/assets/0bb38882-70fc-4de6-a558-444d87ea9696" />
+<img width="318" height="640" alt="WhatsApp Image 2026-11-03 at 12 18 44" src="https://github.com/user-attachments/assets/30b0a2a2-d532-4284-af3b-253e7bc1667a" />
+
+
